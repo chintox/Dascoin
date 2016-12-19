@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "NewSite-12-19_1205",
+    "name": "Dascoin",
     "currentPage": "index.html",
     "theme": {
       "name": "default",
@@ -10,7 +10,9 @@
     "versionFirst": "3.9.2",
     "uniqCompNum": 3,
     "versionPublish": "3.9.2",
-    "publishType": "github"
+    "publishType": "github",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
